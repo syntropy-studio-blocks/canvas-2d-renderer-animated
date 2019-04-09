@@ -1,0 +1,20 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "id": "data",
+      "type": "link"
+    },
+    {
+      "id": "width",
+      "type": "number",
+      "updateOnly": true
+    },
+    {
+      "id": "height",
+      "type": "number",
+      "updateOnly": true
+    }
+  ],
+  "outputs": []
+}

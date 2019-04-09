@@ -1,0 +1,27 @@
+{
+  "name": "canvas-2d-renderer-animated",
+  "version": "1.0.0",
+  "description": "Continuously renders and array of 2d array data to canvas",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/canvas-2d-renderer-animated.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "canvas",
+    "renderer",
+    "array",
+    "2d",
+    "animated"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/canvas-2d-renderer-animated/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/canvas-2d-renderer-animated#readme"
+}
